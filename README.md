@@ -1,1 +1,3 @@
-# jaytracing
+# refraction
+
+A small javascript demo...
